@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zzb19yk
+- 👋 Hi, I’m Yunkyu Kim.
 - 👀 I’m interested in HR, data analytics used in HR, recruiting, organizational culture, global HR, and more!
 - 🏫 I am majoring Religious Studies, Psychology and Business.
 - 🌱 I’m currently learning how to manage data, and how to use github!
