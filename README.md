@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yunkyu Kim.
 - 👀 I’m interested in HR, especially recruiting.
-- 🏫 I am majoring Religious Studies, Psychology and Business.
 - 🌱 I’m currently learning how to manage data, and how to use github!
 - 💞️ I’m looking for an intern job.
 - 📫 How to reach me: zzb19yk@gmail.com
